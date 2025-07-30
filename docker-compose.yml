@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  scraper:
+    build: .
+    volumes:
+      - ./cookies.json:/app/cookies.json:ro
+      - ./output:/app/output
+    environment:
+      - PYTHONUNBUFFERED=1
+    restart: on-failure

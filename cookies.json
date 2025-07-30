@@ -1,0 +1,58 @@
+[
+  {
+    "name": "hasLogin",
+    "value": "1",
+    "domain": "www.jctrans.com",
+    "path": "/",
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "Hm_lvt_113ce103b256f8a2d516c5acefa2a380",
+    "value": "1751510508,1753850149",
+    "domain": "www.jctrans.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "Hm_lpvt_2226b0a7fb5cf89435fffead13a2fe67",
+    "value": "1753850154",
+    "domain": "www.jctrans.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "HMACCOUNT",
+    "value": "42887D2A7BA34359",
+    "domain": "www.jctrans.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "HMACCOUNT_BFESS",
+    "value": "42887D2A7BA34359",
+    "domain": "www.jctrans.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "HWAAFSEID",
+    "value": "c621b7684487f1dbc",
+    "domain": "www.jctrans.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "HWAAFSETIME",
+    "value": "175380144292",
+    "domain": "www.jctrans.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": false
+  }
+]
