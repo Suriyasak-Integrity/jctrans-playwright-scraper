@@ -1,0 +1,38 @@
+[
+  {
+    "selector": "a[href*=\"/company/\"]",
+    "href": "https://www.jctrans.com/en/company/help",
+    "text": "",
+    "title": ""
+  },
+  {
+    "selector": "a[href*=\"/company/\"]",
+    "href": "https://www.jctrans.com/en/company/help",
+    "text": "Help Center",
+    "title": ""
+  },
+  {
+    "selector": "a[href]",
+    "href": "https://www.jctrans.com/en/membership/introduction",
+    "text": "Brings Together High-Quality Freight Forwarding",
+    "title": ""
+  },
+  {
+    "selector": "a[href]",
+    "href": "https://www.jctrans.com/en/membership/introduction",
+    "text": "Create A Reputable Circle",
+    "title": ""
+  },
+  {
+    "selector": "a[href]",
+    "href": "https://www.jctrans.com/en/membership/introduction",
+    "text": "Achieve Sustained Profitability",
+    "title": ""
+  },
+  {
+    "selector": "a[href]",
+    "href": "https://www.jctrans.com/en/",
+    "text": "",
+    "title": ""
+  }
+]
